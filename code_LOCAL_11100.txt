@@ -1,12 +1,9 @@
 #include <iostream>
 
 int main(void){
-	
+
 	using namespace std;
-	
 	cout << "Hello from collaborator";
-	cout<< "Hello frome me";
-	
 	return 0;
 }
 

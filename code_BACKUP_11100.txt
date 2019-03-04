@@ -3,10 +3,11 @@
 int main(void){
 	
 	using namespace std;
-	
+<<<<<<< HEAD
 	cout << "Hello from collaborator";
+=======
 	cout<< "Hello frome me";
-	
+>>>>>>> c35ddc2b8d3abafcd5c9d76237c19a654171dfe6
 	return 0;
 }
 
